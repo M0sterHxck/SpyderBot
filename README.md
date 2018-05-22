@@ -1,8 +1,11 @@
 # SpyderBot
+
 This is very Simple Tool help you Auto Detect Version and Exploit JOOMLA Vulnerability Local File Disclosure 
+
 Load your List site and Press EXP  
 
 "=========================================="
+
 [EXP] COM_Hdflvplayer" 
 
 [EXP] COM_Cckjseblod " 
@@ -38,8 +41,13 @@ Load your List site and Press EXP
 [EXP] COM_Community" 
 
 [EXP] COM_download_monitor" 
+
 "=========================================="
+
 I'm from Cambodia <<<333
+
 If you love my tool and Want new update 
+
 Donate : 19Y4NSiG8kkzwWjMD17euEaQ5PErpwxWkP 
+
 I will be back Stay Tuned '_'
