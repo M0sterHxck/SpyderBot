@@ -1,5 +1,7 @@
 # SpyderBot
 
+Dem Spyder Bot ==>         https://www.youtube.com/watch?v=g_o82smGTjM
+
 This is very Simple Tool help you Auto Detect Version and Exploit JOOMLA Vulnerability Local File Disclosure 
 
 Load your List site and Press EXP  
