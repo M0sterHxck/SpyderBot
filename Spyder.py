@@ -1161,8 +1161,8 @@ except KeyboardInterrupt:
 		
 def Main():
     try:
-        pool = ThreadPool(50) 
-        results = pool.map(req,joomla_exploits_checker, file)
+        pool = ThreadPool(80) 
+        results = pool.map(joomla_exploits_checker, file)
         pool.close() 
         pool.join() 
     except:
